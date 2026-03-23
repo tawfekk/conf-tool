@@ -1,0 +1,8 @@
+{
+  "theme_color": "#8C7CF0",
+  "background_color": "#0c1024",
+  "display": "standalone",
+  "start_url": ".",
+  "short_name": "configtool",
+  "name": "Cisco config generator"
+}

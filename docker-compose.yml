@@ -1,0 +1,7 @@
+version: "3.8"
+services:
+  conftool:
+    ports:
+      - 80:80
+    container_name: conftool
+    image: conftool
